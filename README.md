@@ -24,7 +24,8 @@ Linux raspberrypi 5.4.83-v7l+ #1379 SMP Mon Dec 14 13:11:54 GMT 2020 armv7l GNU/
 # Usage
 
 ```sh
-cd Shell.Vala.HelloWorld.20210709090540/src
+git clone https://github.com/ytyaru/Vala.HelloWorld.20210709090540
+cd Vala.HelloWorld.20210709090540/src
 ./run.sh
 ```
 
